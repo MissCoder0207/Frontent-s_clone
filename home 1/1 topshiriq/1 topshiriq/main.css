@@ -1,0 +1,217 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    background-color: #f1f1f1;
+}
+.wrapper {
+    margin-top: 200px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+}
+.end{
+    margin: 30px;
+    width: 80px;
+    background-color: #1273EB;
+}
+.end2{
+    margin: 40px;
+    width: 70px;
+    background-color: white;
+}
+.wrapper div {
+    border: 1px solid #f1f1f1;
+    background-color: white;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.wrapper div:nth-child(1){
+    position: relative;
+    overflow: hidden;
+}
+.wrapper div:nth-child(2){
+    position: relative;
+    overflow: hidden;
+}
+.wrapper div:nth-child(3){
+    position: relative;
+    overflow: hidden;
+}
+.wrapper div:nth-child(4){
+    position: relative;
+    overflow: hidden;
+}
+.wrapper div:nth-child(5){
+    position: relative;
+    overflow: hidden;
+}
+.wrapper div:nth-child(1) span{
+    transform: skew(45deg);
+    width: 0;
+    height: 156px;
+    background-color: #1273EB;
+    position: absolute;
+    transition: all 0.2s;
+    margin-left: -40px;
+}
+.wrapper div:nth-child(2) span{
+    transform: skew(45deg);
+    width: 0;
+    height: 156px;
+    background-color: #03A9F4;
+    position: absolute;
+    transition: all 0.2s;
+    margin-left: -40px;
+}
+.wrapper div:nth-child(3) span{
+    transform: skew(45deg);
+    width: 0;
+    height: 156px;
+    background-color: #FB5252;
+    position: absolute;
+    transition: all 0.2s;
+    margin-left: -40px;
+}
+.wrapper div:nth-child(4) span{
+    transform: skew(45deg);
+    width: 0;
+    height: 156px;
+    background-color: #DA66D0;
+    position: absolute;
+    transition: all 0.2s;
+    margin-left: -40px;
+}
+.wrapper div:nth-child(5) span{
+    transform: skew(45deg);
+    width: 0;
+    height: 156px;
+    background-color: #03A9F4;
+    position: absolute;
+    transition: all 0.2s;
+    margin-left: -40px;
+}
+.wrapper div:nth-child(1):hover span{
+    width: 260px;
+
+}
+.wrapper div:nth-child(2):hover span{
+    width: 260px;
+
+}
+.wrapper div:nth-child(3):hover span{
+    width: 260px;
+
+}
+.wrapper div:nth-child(4):hover span{
+    width: 260px;
+
+}
+.wrapper div:nth-child(5):hover span{
+    width: 260px;
+
+}
+.wrapper div:nth-child(1):hover img:nth-child(2){
+    position: absolute;
+    z-index: 1;
+    display: block;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(1):hover img:nth-child(1){
+    display: none;
+    z-index: 0;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(1) img:nth-child(2){
+    display: none;
+    z-index: 1;
+}
+.wrapper div:nth-child(1) img:nth-child(1){
+    display: block;
+    z-index: 0;
+    transition: all 0.2s;
+}
+
+
+.wrapper div:nth-child(2):hover img:nth-child(2){
+    position: absolute;
+    z-index: 1;
+    display: block;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(2):hover img:nth-child(1){
+    display: none;
+    z-index: 0;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(2) img:nth-child(2){
+    display: none;
+    z-index: 1;
+}
+.wrapper div:nth-child(2) img:nth-child(1){
+    display: block;
+    z-index: 0;
+    transition: all 0.2s;
+}
+
+.wrapper div:nth-child(3):hover img:nth-child(2){
+    position: absolute;
+    z-index: 1;
+    display: block;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(3):hover img:nth-child(1){
+    display: none;
+    z-index: 0;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(3) img:nth-child(2){
+    display: none;
+    z-index: 1;
+}
+.wrapper div:nth-child(3) img:nth-child(1){
+    display: block;
+    z-index: 0;
+    transition: all 0.2s;
+}
+
+.wrapper div:nth-child(4):hover img:nth-child(2){
+    position: absolute;
+    z-index: 1;
+    display: block;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(4):hover img:nth-child(1){
+    display: none;
+    z-index: 0;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(4) img:nth-child(2){
+    display: none;
+    z-index: 1;
+}
+.wrapper div:nth-child(4) img:nth-child(1){
+    display: block;
+    z-index: 0;
+    transition: all 0.2s;
+}
+
+.wrapper div:nth-child(5):hover img:nth-child(2){
+    position: absolute;
+    z-index: 1;
+    display: block;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(5):hover img:nth-child(1){
+    display: none;
+    z-index: 0;
+    transition: all 0.2s;
+}
+.wrapper div:nth-child(5) img:nth-child(2){
+    display: none;
+    z-index: 1;
+}
+.wrapper div:nth-child(5) img:nth-child(1){
+    display: block;
+    z-index: 0;
+    transition: all 0.2s;
+}

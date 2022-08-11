@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="760a0fa7-6e67-484b-99bd-c9ad07b27ae8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1l5vNyzmd9aSZWk0skg7dXQdCy1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PDP\Modul 2\Lesson 8\Homework-1\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="760a0fa7-6e67-484b-99bd-c9ad07b27ae8" name="Default Changelist" comment="" />
+      <created>1606899730971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606899730971</updated>
+      <workItem from="1606899732047" duration="259000" />
+      <workItem from="1606900028390" duration="29494000" />
+      <workItem from="1606948072541" duration="21000" />
+      <workItem from="1607023649574" duration="1383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606940328161">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="473" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1606940328161" />
+    <state x="1098" y="320" key="FileChooserDialogImpl" timestamp="1606948091579">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1098" y="320" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606948091579" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1606903462757">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1606903462757" />
+  </component>
+</project>

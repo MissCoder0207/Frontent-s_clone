@@ -1,0 +1,64 @@
+.wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.wrapper label{
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+    border: 8px solid #eee6e6;
+    background-color: none;
+    transition: all 0.3s linear;
+    cursor: pointer;
+}
+.wrapper span{
+    background-color: whitesmoke;
+    position: absolute;
+    transition: animate 0.3s linear;
+}
+
+.wrapper span:nth-child(1){
+    width: 20px;
+    height: 105px;
+    border-radius: 8px;
+
+}
+.wrapper span:nth-child(2){
+    width: 20px;
+    height: 65px;
+    border-radius: 8px;
+
+}
+.wrapper span:nth-child(1){
+    transform: rotate(40deg);
+    margin-left: 90px;
+    margin-top: 13.80px;
+}
+.wrapper span:nth-child(2){
+    transform: rotate(-50deg);
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+.wrapper label:hover{
+    background-color: #f3f0f0;
+}
+.wrapper label:hover span:nth-child(1){
+    background-color: #bfb3b3;
+}
+.wrapper label:hover span:nth-child(2){
+    background-color: #bfb3b3;
+}
+.wrapper input[type="checkbox"]:checked + label{
+    background-color: #0e5a94;
+    border-color: #353535;
+}
+.wrapper input{
+    display: none;
+}
+

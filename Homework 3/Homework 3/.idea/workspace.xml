@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f919a24b-4f95-4a81-b925-0fe537d2357b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jioupAq45reSUc4OgVydsZNl3W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework 2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PDP\Modul 2\Lesson 2\Homework 3\rasmlar" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f919a24b-4f95-4a81-b925-0fe537d2357b" name="Default Changelist" comment="" />
+      <created>1604296498806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604296498806</updated>
+      <workItem from="1604296499873" duration="160000" />
+      <workItem from="1604337672413" duration="106000" />
+      <workItem from="1604337986718" duration="465000" />
+      <workItem from="1604339290880" duration="31000" />
+      <workItem from="1604339414853" duration="100000" />
+      <workItem from="1604340118070" duration="105000" />
+      <workItem from="1604386940720" duration="626000" />
+      <workItem from="1604412355920" duration="2004000" />
+      <workItem from="1604417315569" duration="1803000" />
+      <workItem from="1604419162786" duration="1793000" />
+      <workItem from="1604421087272" duration="1574000" />
+      <workItem from="1604422909481" duration="89000" />
+      <workItem from="1604423801603" duration="1555000" />
+      <workItem from="1604429336654" duration="1793000" />
+      <workItem from="1604473496640" duration="266000" />
+      <workItem from="1604473924323" duration="1796000" />
+      <workItem from="1604475736583" duration="1270000" />
+      <workItem from="1604480230802" duration="802000" />
+      <workItem from="1604483210476" duration="599000" />
+      <workItem from="1604487820456" duration="695000" />
+      <workItem from="1604497227920" duration="1133000" />
+      <workItem from="1604511224799" duration="208000" />
+      <workItem from="1604511992011" duration="45000" />
+      <workItem from="1610354303104" duration="301000" />
+      <workItem from="1615742877864" duration="1553000" />
+      <workItem from="1615809043480" duration="39000" />
+      <workItem from="1616750604185" duration="762000" />
+      <workItem from="1616752448865" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="181" key="FileChooserDialogImpl" timestamp="1616752463429">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="545" y="181" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1616752463429" />
+  </component>
+</project>

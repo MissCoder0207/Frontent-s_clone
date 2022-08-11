@@ -1,0 +1,68 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+body{
+  background-image: url("../imags/Rectangle 6.5.png"),url("../imags/Rectangle 6.7.png");
+  background-position: top right, bottom left;
+  background-repeat: no-repeat, no-repeat;
+}
+
+.wrapper {
+  width: 70%;
+  margin-top: 70px;
+  height: 900px;
+  display: flex;
+
+
+  div {
+    margin-top: 20%;
+    position: relative;
+    width: 25%;
+    height: 200px;
+    border: 0 solid;
+    background-color: #FFFDF6;
+    box-shadow: 0 2px 2px 2px rgba(86, 84, 84, 0.03);
+
+    img {
+      position: absolute;
+      z-index: 1;
+      top: -90px;
+      left: 50%;
+    }
+
+    h2 {
+      text-align: center;
+      padding: 90px 0 10px 0;
+    }
+
+    p {
+      text-align: center;
+      color: #F58F5D;
+      padding-bottom: 60px;
+    }
+
+    &:hover {
+      box-shadow: 0 20px 20px 8px rgba(0, 0, 0, 0.03);
+    }
+
+
+    .rec_1 {
+      position: fixed;
+      z-index: -1;
+      left: 0;
+      top: 0;
+    }
+
+    .rec_2 {
+      position: fixed;
+      z-index: -1;
+      right: 0;
+      bottom: 0;
+    }
+  }
+}
+
+

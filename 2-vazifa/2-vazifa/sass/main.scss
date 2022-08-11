@@ -1,0 +1,78 @@
+body {
+  width: 97vw;
+  height: 99vh;
+  background-image: url("../imags/Rectangle 6.5.png"),url("../imags/Rectangle 6.7.png");
+  background-position: top right, bottom left;
+  background-repeat: no-repeat, no-repeat;
+  }
+
+  .wrappper {
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 70px;
+    box-sizing: border-box;
+  }
+
+  .biz {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 35px;
+    font-family: Ebrima sans-serif;
+    font-weight: bolder;
+    padding-top: 8px;
+  }
+
+  .flex {
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .quti {
+    width: 270px;
+    height: 370px;
+    display: block;
+    background-color: #faf8f6;
+    align-items: center;
+  }
+
+  .rasm {
+    width: 100%;
+    height: 180px;
+    text-align: center;
+    margin-top: 25px;
+    background-color: #faf8f6;
+  }
+
+  .quti:hover {
+    box-shadow: 0 5px 25px 5px rgba(80, 80, 80, 0.2);
+    transition: all 0.7s linear;
+  }
+
+  img {
+    width: 180px;
+    height: 180px;
+  }
+
+  p {
+    font-size: 20px;
+    font-family: Ebrima sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+  }
+
+  h6 {
+    color: #c30505;
+    text-align: center;
+    margin-top: 10px;
+  }
+}

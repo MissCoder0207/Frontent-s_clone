@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6af18a5c-37e3-4fa1-a2eb-17e3e8565923" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k9PURQBHuRBtyoi82U4tNUEc5s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lesson 5/amaliy" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PDP\Modul 2\Lesson 4\2-vazifa\css" />
+      <recent name="D:\PDP\Modul 2\Lesson 4\2-vazifa\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6af18a5c-37e3-4fa1-a2eb-17e3e8565923" name="Default Changelist" comment="" />
+      <created>1605109850048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605109850048</updated>
+      <workItem from="1605109851101" duration="775000" />
+      <workItem from="1605115952193" duration="1812000" />
+      <workItem from="1605117846543" duration="1789000" />
+      <workItem from="1605119718466" duration="435000" />
+      <workItem from="1605120265563" duration="1011000" />
+      <workItem from="1605121299610" duration="1478000" />
+      <workItem from="1605123250654" duration="1846000" />
+      <workItem from="1605125118175" duration="440000" />
+      <workItem from="1605125591018" duration="1788000" />
+      <workItem from="1605127403937" duration="354000" />
+      <workItem from="1605127882829" duration="1307000" />
+      <workItem from="1605129216648" duration="926000" />
+      <workItem from="1605169048281" duration="14000" />
+      <workItem from="1605171980089" duration="21000" />
+      <workItem from="1605172747615" duration="16000" />
+      <workItem from="1605184514730" duration="605000" />
+      <workItem from="1605195351608" duration="97000" />
+      <workItem from="1605341299739" duration="434000" />
+      <workItem from="1605341754427" duration="767000" />
+      <workItem from="1605343250088" duration="19000" />
+      <workItem from="1605350035283" duration="124000" />
+      <workItem from="1605506108831" duration="804000" />
+      <workItem from="1605507308018" duration="2064000" />
+      <workItem from="1605517238856" duration="291000" />
+      <workItem from="1605517646331" duration="595000" />
+      <workItem from="1605540797273" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="136" y="110" key="#Inspections" timestamp="1605506555018">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="136" y="110" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1605506555018" />
+    <state x="527" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605341438750">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="527" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1605341438750" />
+    <state x="547" y="187" key="FileChooserDialogImpl" timestamp="1605540843421">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="547" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605540843421" />
+    <state x="416" y="199" key="run.anything.popup" timestamp="1605517291945">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="416" y="199" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1605517291945" />
+  </component>
+</project>

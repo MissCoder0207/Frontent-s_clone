@@ -1,0 +1,199 @@
+.box{
+    width: 100%;
+    border:1px solid grey;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.75);
+}
+.b{
+    padding: 1rem 2.3rem !important;
+}
+
+
+.img{
+
+    height: 100px;!important;
+
+}
+
+
+.uzs{
+    width:100%;
+    padding:10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sum{
+    width: 50%;
+
+}
+.quw{
+    width: 50%;
+}
+.kort{
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bolder;
+}
+.sum{
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bolder;
+}
+.sum span{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #959899;
+}
+.kortfel{
+    font-size: 15px;
+    margin-left: 10px;
+    color: #959899;
+    margin-top: 5px;
+}
+.bt{
+    width: 90px;
+    height: 40px;
+    font-size: 13px !important;
+}
+.rasm img{
+    width: 100%;
+    height: 229px !important;
+}
+.buyurtma{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ruyhat{
+    width: 80%;
+}
+.deleate{
+    width: 20%;
+
+}
+.r{
+    width: 50%;
+}
+.flex{
+    width: 100%;
+    border:1px solid  #959899;
+    border-radius: 8px;
+    padding:10px;
+    margin-bottom: 15px;
+
+}
+.menu{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.nomlar{
+    width: 50%;
+}
+.narxlar{
+    width: 50%;
+}
+.nomlar h5{
+    font-size: 18px;
+    font-weight: bolder;
+    color: #585f62;
+    line-height: 2rem;
+}
+.narxlar h5{
+    font-size: 18px;
+    font-weight: bolder;
+    color: #575c5f;
+   line-height: 2rem;
+}
+.umumiy{
+    width: 95%;
+   align-items: center;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 100px;
+    background-color: #c0c1c1;
+    border-radius: 8px;
+}
+.umumiy h6{
+    font-size: 13px;
+    margin-left: 10px;
+    color: #8b8e8f;
+    line-height: 2rem;
+}
+.umumiy h5{
+    font-weight: bold;
+    font-size: 23px;
+    color: #1b1e21;
+    margin-left: 10px;
+    line-height: 1rem;
+}
+.umumiy h6 span{
+    font-size: 23px;
+    font-weight: normal;
+    color: #575c5f;
+
+}
+.asos{
+    width: 100%;
+    margin-top: 30px;
+
+}
+.mijoz h5{
+    font-size: 13px;
+    color: #8b8e8f;
+}
+.ikkita {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ism{
+    width: 90%;
+
+}
+.ism p{
+    font-size: 18px;
+    color: #5e6264;
+    margin-top:16px;
+    margin-left: 18px;
+
+}
+.icon{
+    width: 10%;
+    margin-right: 20px;
+
+}
+imgs{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.as{
+    width: 180px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
